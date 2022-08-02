@@ -1,5 +1,5 @@
 # swift_mvvm_news_app
-Practice mvvm pattern
+Practice MVVM pattern
 
 Get News API from: https://newsapi.org
 
